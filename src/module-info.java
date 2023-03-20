@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author aries
+ *
+ */
+module ExericiceException {
+}
